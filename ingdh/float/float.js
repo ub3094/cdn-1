@@ -1,0 +1,2 @@
+document.writeln("<div class=\'demo-avd demo-avd-cf demo-avd--dark js-demo-avd\' style=\'left:30%; top:20%;\'></div>");
+document.writeln("<script src=\'https://www.cav.ooo/float/js/demo-avd.js\'></script>");

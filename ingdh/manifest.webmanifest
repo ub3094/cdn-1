@@ -1,0 +1,25 @@
+{
+    "name": "黄色网站导航",
+    "short_name": "黄色网站导航",
+    "display": "minimal-ui",
+    "start_url": "./?WebAppManifest",
+    "theme_color": "#FF7DB1",
+    "background_color": "#ffffff",
+    "icons": [
+    {
+        "src": "https://cdn.jsdelivr.net/gh/avhot/cdn@latest/www.cav.ooo/logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "share_target":
+    {
+        "action": "/?pwa",
+        "method": "GET",
+        "enctype": "application/x-www-form-urlencoded",
+        "params":
+        {
+            "title": "title",
+            "text": "body"
+        }
+    }
+}
