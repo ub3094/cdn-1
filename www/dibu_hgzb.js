@@ -103,7 +103,7 @@ document.writeln("<div class=\'bottom-con\'>");
 document.writeln("<div class=\'bottom-pic\'>");
 document.writeln("<img src=\'https://cdn.jsdelivr.net/gh/fulidhw/cdn/static/nav/GIF/17.gif\' style=\'width:100%; height:100%;\' alt=\'\' />");
 document.writeln("</div>");
-document.writeln("<div class=\'bottom-text\' id=\'bottomText\'>性吧..直播</div>");
+document.writeln("<div class=\'bottom-text\' id=\'bottomText\'>小黄瓜.直播</div>");
 document.writeln("<div class=\'bottom-wenan\' id=\'\'>性感萝莉主播，<span style=\'color:yellow;\'>任</span>你操控！</div>");
 document.writeln("<div class=\'bottom-btn\'>立即下载</div>");
 document.writeln("</div>");
