@@ -266,8 +266,7 @@ body {
 li {
     list-style:none
 }
-li a:hover {color:#FF00FF;}
-
+ 
 @media(max-width:1280px) {
     #navs .items {
         margin-right:10px
