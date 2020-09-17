@@ -3,7 +3,7 @@
 */
 /* css reset*/
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td,img { margin:0; padding:0; }
-body { background:url(../img/npsl.png) center top no-repeat; background-color: #115F4D; overflow: hidden; color:#555; font-size:13px; font-family: "Microsoft YaHei",Simsun,Tahoma; }
+body { background:url(https://cdn.jsdelivr.net/gh/fulidhw/cdn/lsdh/npsl.png) center top no-repeat; background-color: #115F4D; overflow: hidden; color:#555; font-size:13px; font-family: "Microsoft YaHei",Simsun,Tahoma; }
 td,th,caption { font-size:14px; }
 h1, h2, h3, h4, h5, h6 { font-weight:normal; font-size:100%; }
 address, caption, cite, code, dfn, em, strong, th, var { font-style:normal; font-weight:normal; }
@@ -44,9 +44,9 @@ html { overflow-y: scroll; }
 .xm{position:fixed;bottom:0;left:initial;right:0;z-index:1;font-size:0;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;-webkit-transform:translateY(3px);-ms-transform:translateY(3px);transform:translateY(3px)}
 .xm img{width:100px}
 
-#scj{background:url(../img/scj.png)}
-#top{background:url(../img/top.jpg)}
-#dizhi{background:url(../img/dizhi.jpg)}
+#scj{background:url(https://cdn.jsdelivr.net/gh/fulidhw/cdn/lsdh/scj.png)}
+#top{background:url(https://cdn.jsdelivr.net/gh/fulidhw/cdn/lsdh/top.jpg)}
+#dizhi{background:url(https://cdn.jsdelivr.net/gh/fulidhw/cdn/lsdh/dizhi.jpg)}
 #guestbook{text-align:center;line-height:32px;transition:background-color .3s}
 #guestbook:hover{background:#fd6ea3}
 @media screen and (max-width:1200px){.side{display:none}
