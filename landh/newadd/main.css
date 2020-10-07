@@ -12,7 +12,7 @@ ul>li{margin-bottom:10px;list-style-type:none;text-align:center}
 ul>li.text{font-size:12px;clear:both;width:100%}
 .field .title{margin-bottom:15px;font-weight:700;color:#343a40}
 a,a:active,a:focus,a:hover,a:visited{color:inherit;text-decoration:none}
-.brand{display:flex;align-items:center;justify-content:flex-start;text-align:center;color:#000;font-size:30px;font-weight:200;padding:20px;cursor:pointer}
+.brand{display:flex;align-items:center;justify-content:flex-start;text-align:center;color:#000;font-size:40px;font-weight:200;padding:20px;cursor:pointer}
 .brand span{color:#fff;font-weight:600}
 .brand span.flag{color:#1881bb;background:#fff;border-radius:5px;font-size:15px;font-weight:700;display:inline-block;padding:0 5px;margin-left:5px}
 .enter-maomi{width:75%;text-align:center;line-height:40px;border:2px solid #1881bb;border-radius:4px;margin-bottom:20px;margin-top:10px}
